@@ -1,0 +1,17 @@
+body{
+    background-color: blueviolet;
+}
+
+
+.john{
+    background-color: aliceblue;
+    color:brown;
+}
+
+.katumbo{
+   background-color: chartreuse; 
+}
+
+#test{
+    background-image: url("./images/pexels-brady-knoll-2812474.jpg");
+}
